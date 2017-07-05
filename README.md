@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to the ReadMe Page
+
+Link to index page: https://aleishakat.github.io/CA/index.md
+
+
 
 You can use the [editor on GitHub](https://github.com/aleishakat/CA/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
