@@ -1,6 +1,7 @@
 ## Welcome to the ReadMe Page
 
-Link to index page: https://aleishakat.github.io/CA/index.md
+Link to index page:
+https://aleishakat.github.io/CA/index.html
 
 
 
